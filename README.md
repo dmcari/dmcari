@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/dmcari/dmcari/main/gif/me.gif)
+<img src="https://raw.githubusercontent.com/dmcari/dmcari/main/gif/me.gif" width="320" height="240" />
 
 *A few seconds in which I realized that the recording with real-time object detection had started*
 
