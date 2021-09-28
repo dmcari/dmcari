@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmcari
+- 👋 Hi, I’m Denise
 - 👀 I’m interested in MLOps
 - 🌱 I’m currently learning more about GitOps
 - 💞️ I’m looking to collaborate on promising data projects
