@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/dmcari/dmcari/main/gif/me.gif" width="320" height="240" />
 
-*A few seconds in which I realized that the recording with real-time object detection had started*
+*2019 - A few seconds in which I realized that the recording with real-time object detection had started*
 
 - 👋 Hi, I’m Denise
 - 👀 I’m interested in MLOps
